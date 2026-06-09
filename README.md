@@ -26,15 +26,6 @@ ReThink is a mobile application developed using Flutter and Dart to help users m
 - Designed and implemented 9 Firestore collections for user, book, and reading data management
 - Conducted testing and debugging to improve application stability and user experience
 
-## Installation
-
-```bash
-git clone https://github.com/your-username/rethink.git
-cd rethink
-flutter pub get
-flutter run
-```
-
 ## Author
 
 **Nguyen Thien Kim**
