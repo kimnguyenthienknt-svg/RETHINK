@@ -1,16 +1,24 @@
-# bookapp
+ReThink - Personal Reading Management Application
 
-A new Flutter project.
+ReThink is a mobile application developed using Flutter and Dart to help users manage their personal reading journey. The application enables users to organize their book collections, track reading progress, earn achievements, and discover books through Google Books API integration.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+User authentication with Firebase Authentication
+Personal book library management
+Reading progress tracking
+Achievement tracking
+Book search and discovery
+Cloud-based data storage with Firebase Cloud Firestore
+Technologies
+Flutter
+Dart
+Firebase Authentication
+Cloud Firestore
+Google Books API
+Figma
+Project Highlights
+Designed and implemented 35+ mobile application screens based on Figma designs
+Developed core functionalities for personal book management, reading progress tracking, achievement tracking, and navigation flows
+Integrated Google Books API to retrieve and display information for 50+ books
+Designed and implemented 9 Firestore collections for user, book, and reading data management
+Conducted testing and debugging to improve application stability and user experience
