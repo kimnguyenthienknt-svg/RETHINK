@@ -1,6 +1,6 @@
-# ReThink - Personal Reading Management Application
+# Rethink - Personal Reading Management Application
 
-ReThink is a mobile application developed using Flutter and Dart to help users manage their personal reading journey. The application enables users to organize their book collections, track reading progress, earn achievements, and discover books through Google Books API integration.
+Rethink is a mobile application developed using Flutter and Dart to help users manage their personal reading journey. The application enables users to organize their book collections, track reading progress, earn achievements, and discover books through Google Books API integration.
 
 ## Features
 
